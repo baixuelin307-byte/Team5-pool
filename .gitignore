@@ -1,6 +1,7 @@
-# Visual Studio build output
-Debug/
-Release/
+# Visual Studio build output (only in the project root)
+/Debug/
+/Release/
+/x64/
 .vs/
 *.obj
 *.pdb
@@ -15,6 +16,9 @@ Release/
 *.plg
 *.log
 *.tlog
+
+# NuGet packages (restored automatically by Visual Studio)
+packages/
 
 # DirectX SDK (do not upload)
 DirectX/
