@@ -1,0 +1,20 @@
+# Visual Studio build output
+Debug/
+Release/
+.vs/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.sbr
+*.bsc
+*.sdf
+*.suo
+*.user
+*.opt
+*.plg
+*.log
+*.tlog
+
+# DirectX SDK (do not upload)
+DirectX/
