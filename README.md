@@ -342,19 +342,6 @@ WinMain
 
 ---
 
-## Team
-
-**Team 5** – Object-Oriented Programming (Fall 2026), Chung-Ang University
-
-| Name | Role |
-|---|---|
-| *(name)* | *(e.g. team leader, presentation)* |
-| *(name)* | *(e.g. physics: CSphere, CWall, CHole)* |
-| *(name)* | *(e.g. game rules and HUD: CGameManager, power meter)* |
-| *(name)* | *(e.g. report, demo video)* |
-
----
-
 ## Credits
 
 - **Sample code**: *Virtual Billiard* (based on *Virtual LEGO*) – original author Chang-hyeon Park,
